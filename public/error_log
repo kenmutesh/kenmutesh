@@ -1,0 +1,2 @@
+[25-Sep-2021 11:28:53 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.30. in /home/uoemcuco/Registration.uoemcu.co.ke/vendor/composer/platform_check.php on line 24
+[25-Sep-2021 11:30:24 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.30. in /home/uoemcuco/Registration.uoemcu.co.ke/vendor/composer/platform_check.php on line 24
