@@ -15,7 +15,7 @@
 - ⚡ Fun fact **#**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">kenmutesh.github.io
+<p align="left">nexoratech.co.ke
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
