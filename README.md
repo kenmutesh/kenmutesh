@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/YourTwitterHandle" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge" alt="YourTwitterHandle" />
+    <img src="https://img.shields.io/twitter/follow/Robry254?logo=twitter&style=for-the-badge" alt="Robry254" />
   </a>
 </p>
 
