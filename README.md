@@ -88,7 +88,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenmutesh&theme=dark" alt="kenmutesh" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kenmutesh" alt="GitHub Streak" /></a>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenmutesh&theme=dark" alt="kenmutesh" /> -->
 </p>
 
 <p align="center">
