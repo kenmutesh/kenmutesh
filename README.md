@@ -59,29 +59,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-
 ---
 
-## 📊 Development Analytics
+### 📊 GitHub Stats
 
-### GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kenmutesh&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenmutesh&theme=dark" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kenmutesh" alt="GitHub Streak" /></a>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenmutesh&theme=dark" alt="kenmutesh" /> -->
 </p>
 
-### Language Distribution
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenmutesh&show_icons=true&locale=en&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenmutesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="kenmutesh" />
 </p>
 
-### WakaTime Coding Activity
-<!--START_SECTION:waka-->
-```text
-From: 22 March 2023 - To: 22 March 2024
-
-Total Time: 1,200 hrs 30 mins
-
-JavaScript    ████████████████████▓░░░░   78.5% 
-PHP           ██████▓░░░░░░░░░░░░░░░░░░   18.2%
-Other         █▒░░░░░░░░░░░░░░░░░░░░░░░   3.3%
+---
