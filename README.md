@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kennedy Mwangi</h1>
+<h1 align="center">Hi 👋, I'm Kennedy</h1>
 <h3 align="center">Full-Stack Developer | Kenya 🇰🇪</h3>
 
 <p align="center">
